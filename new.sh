@@ -23,7 +23,7 @@ echo $i" |"$pu" Contack Gmail :"$ku" Muhamadbadruwasih8@gmail.com"$i"|"
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
 echo
 echo $i"────────────────────────────────    ─────"
-echo $i"|"$me" 1"$i" |"$cy" BRUTEFORCE FB PHP        "$i"|"$i"    |"$cy" B"$i" |"
+echo $i"|"$me" 1"$i" |"$cy" SPAM CALL Tanpa Batas    "$i"|"$i"    |"$cy" B"$i" |"
 echo $i"|"$me" 2"$i" |"$cy" BRUTEFORCE FB BR1G4D3    "$i"|"$i"    |"$cy" E"$i" |"
 echo $i"|"$me" 3"$i" |"$cy" Dark-FB Version5         "$i"|"$i"    |"$cy" N"$i" |"
 echo $i"|"$me" 4"$i" |"$cy" BRUTEFORCE FB MBF        "$i"|"$i"    |"$cy" G"$i" |"
@@ -56,9 +56,10 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/FR13ND8/fbbrute
-cd fbbrute
-php fb.php
+git clone https://github.com/Muhamadba/MBFz 
+cd MBFz 
+ ls
+php SpamCall.php
 fi
 
 if [ $pil = 2 ]
